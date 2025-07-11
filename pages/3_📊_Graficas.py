@@ -3,6 +3,8 @@ import pandas as pd
 import plotly.express as px
 from PIL import Image
 
+ 
+
 st.title("Graficas Page")
 
 st.image('images/A320.jpg', width=400)
